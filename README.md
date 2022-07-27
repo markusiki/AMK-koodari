@@ -1,1 +1,1 @@
-# AMK-koodari
+# AMK-koodari -koulutuksen harjoitustehtäviä
